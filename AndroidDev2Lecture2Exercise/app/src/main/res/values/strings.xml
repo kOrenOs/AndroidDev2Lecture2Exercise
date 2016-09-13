@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaisicUIControls1</string>
+    <string name="question">What to eat??</string>
+    <string name="programmingAction">Pizza</string>
+    <string name="readingAction">Pasta</string>
+    <string name="sportsAction">Chicken </string>
+    <string name="filmAction">Apple</string>
+    <string name="eatingAction">Steak</string>
+    <string name="selectButtonText">Select</string>
+</resources>
